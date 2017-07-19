@@ -9,6 +9,7 @@ import java.util.List;
 
 /**
  * Created by Ameet Chaubal on 3/17/2017.
+ * sample flink app
  */
 public class FlinkSampleApp {
     private static final int PORT = 9013;
